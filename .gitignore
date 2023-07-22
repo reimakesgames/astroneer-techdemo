@@ -1,0 +1,12 @@
+# Project place file
+/astroneer-techdemo.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Source map
+/sourcemap.json
+
+# Packages
+/Packages

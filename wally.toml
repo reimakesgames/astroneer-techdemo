@@ -1,0 +1,9 @@
+[package]
+name = "shiro/astroneer-techdemo"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+janitor = "howmanysmall/janitor@1.15.4"
+goodsignal = "stravant/goodsignal@0.2.1"
